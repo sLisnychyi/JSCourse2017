@@ -17,12 +17,15 @@ Thu Oct 12 | 19:00 | **[remote]** JS: promises, proxies | [Aleksey Shvayka](http
 Tue Oct 17 | 19:00 | DOM APIs | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171016_dom_api.md) ||| [task](assignments/171016_dom_api.md)
 Thu Oct 19 | 19:00 | Web Components | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171019_web_components.md) ||| [task](assignments/171019_web_components.md)
 Sat Oct 21 | 12:00 | **[workshop]** ESLint | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Code](lecture_summary/171021_eslint_workshop.md)
-Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90)
-Thu Oct 26 | 19:00 | Security | [Aleksey Shvayka](https://github.com/shvaikalesh)
+Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90) || [Slides](https://docs.google.com/presentation/d/1JghXnEAANvAW1tSkLRuhFISocGVkIpQKIIJJnwdTHCI/present?slide=id.p)
 Sat Oct 28 | 12:00 | **[workshop]** Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
+Tue Oct 31 | 19:00 | Fetch, XSS, CQRS, CSP | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Nov 4  | 12:00 | **[workshop]** Babel | [Artem Yavorsky](https://github.com/yavorsky)
 Thu Nov 9  | 19:00 | CI/CD | [Yuri Tkachenko](https://github.com/tyv)
 Sat Nov 11 | 12:00 | **[remote]** **[workshop]** Webpack | [Ivan Akulov](https://github.com/iamakulov)
+Tue Nov 14 | 19:00 | HTTP | [Aleksey Shvayka](https://github.com/shvaikalesh)
+Thu Nov 16 | 19:00 | Node: basics | [Aleksey Shvayka](https://github.com/shvaikalesh)
+Sat Nov 18 | 12:00 | **[workshop]** Node | [Andrey Listochkin](https://github.com/listochkin)
 Tue Nov 21 | 19:00 | React | [Kateryna Porshnieva](https://github.com/krambertech)
 Thu Nov 23 | 19:00 | React + Redux | [Kateryna Porshnieva](https://github.com/krambertech)
 Sat Nov 25 | 12:00 | **[workshop]** React + Redux | [Kateryna Porshnieva](https://github.com/krambertech)
@@ -30,7 +33,4 @@ Sat Nov 25 | 12:00 | **[workshop]** React + Redux | [Kateryna Porshnieva](https:
 --.--.2017 | --:00 | Vue + Vuex | Illya Klymov
 --.--.2017 | --:00 | Vue | Illya Klymov
 --.--.2017 | --:00 | Flow | Illya Klymov
---.--.2017 | --:00 | HTTP | [Aleksey Shvayka](https://github.com/shvaikalesh)
---.--.2017 | --:00 | Node: basics | [Aleksey Shvayka](https://github.com/shvaikalesh)
---.--.2017 | --:00 | Node | Andrey Listochkin
 --.--.2017 | --:00 | Outro | [Artem Sychov](https://github.com/suchov)
